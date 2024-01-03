@@ -2,7 +2,12 @@ Front And Dasar
 
 Belajar Dasar HTML
 
+
 https://en.wikipedia.org/wiki/HTML
 
+Membuat Format Paragraf atau Judul di HTML
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p
+
+Membuat Format Heading atau Judul di HTML
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
 
