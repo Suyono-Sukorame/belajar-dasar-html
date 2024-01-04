@@ -20,4 +20,8 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element#text-content
 Membuat Element Link di HTML untuk Pindah Halaman
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a
 
+Memuat File Gambar di HTML
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img
+
+
 
