@@ -16,3 +16,8 @@ https://en.wikipedia.org/wiki/HTML
 
 Membuat List di dalam HTML
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element#text-content
+
+Membuat Element Link di HTML untuk Pindah Halaman
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a
+
+
