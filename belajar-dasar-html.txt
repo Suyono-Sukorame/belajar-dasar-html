@@ -24,5 +24,12 @@ Memuat File Gambar di HTML
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img
 
 Mengenal Element Komentar sebagai Catatan di HTML
+<!-- Mengenal Element Komentar sebagai Catatan di HTML -->
+
+Antara Block dan Inline - div dan span
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flow_layout/Block_and_inline_layout_in_normal_flow
+
+
 
 
