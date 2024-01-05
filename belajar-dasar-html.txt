@@ -42,9 +42,19 @@ https://html.spec.whatwg.org/multipage/named-characters.html
 Mengenal Apa itu Semantic Markup
 https://developer.mozilla.org/en-US/docs/Glossary/Semantics
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article
-
 https://medium.com/
 https://stripe.com/id-us
+
+Latihan Menggunakan Semantic Element
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside
+
+
+
 
 
 
