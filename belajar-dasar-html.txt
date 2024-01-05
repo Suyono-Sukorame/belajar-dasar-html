@@ -56,6 +56,12 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside
 Mengenal Tabel dan Sejarahnya di HTML
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
 
+Membuat Tabel Sederhana di HTML
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/td
+https://id.wikipedia.org/wiki/Daftar_ibu_kota_negara_menurut_jumlah_penduduk
+
+
+
 
 
 
