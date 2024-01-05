@@ -39,6 +39,13 @@ Mengenal Entity Code
 https://entitycode.com/
 https://html.spec.whatwg.org/multipage/named-characters.html
 
+Mengenal Apa itu Semantic Markup
+https://developer.mozilla.org/en-US/docs/Glossary/Semantics
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article
+
+https://medium.com/
+https://stripe.com/id-us
+
 
 
 

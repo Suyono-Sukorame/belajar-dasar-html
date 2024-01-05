@@ -1,0 +1,77 @@
+.forecast {
+  margin: 0;
+  padding: 0.3rem;
+  background-color: #eee;
+}
+
+.forecast > h1,
+.day-forecast {
+  margin: 0.5rem;
+  padding: 0.3rem;
+  font-size: 1.2rem;
+}
+
+.day-forecast {
+  background: right/contain content-box border-box no-repeat url("/media/examples/rain.svg") white;
+}
+
+.day-forecast > h2,
+.day-forecast > p {
+  margin: 0.2rem;
+  font-size: 1rem;
+}
+
+aside {
+  width: 40%;
+  padding-left: 0.5rem;
+  margin-left: 0.5rem;
+  float: right;
+  box-shadow: inset 5px 0 5px -5px #29627e;
+  font-style: italic;
+  color: #29627e;
+}
+
+aside > p {
+  margin: 0.5rem;
+}
+
+figure {
+  border: thin #c0c0c0 solid;
+  display: flex;
+  flex-flow: column;
+  padding: 5px;
+  max-width: 220px;
+  margin: auto;
+}
+
+img {
+  max-width: 220px;
+  max-height: 150px;
+}
+
+figcaption {
+  background-color: #222;
+  color: #fff;
+  font: italic smaller sans-serif;
+  padding: 3px;
+  text-align: center;
+}
+
+.logo {
+  background: left / cover url("HTML5_logo_and_wordmark.svg.png");
+  display: flex;
+  height: 120px;
+  align-items: center;
+  justify-content: center;
+  font: bold calc(1em + 2 * (100vw - 120px) / 100) "Dancing Script", fantasy;
+  color: #ff0083;
+  text-shadow: #000 2px 2px 0.2rem;
+}
+
+header > h1 {
+  margin-bottom: 0;
+}
+
+header > time {
+  font: italic 0.7rem sans-serif;
+}
