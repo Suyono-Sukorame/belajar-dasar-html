@@ -53,6 +53,9 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside
 
+Mengenal Tabel dan Sejarahnya di HTML
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
+
 
 
 
