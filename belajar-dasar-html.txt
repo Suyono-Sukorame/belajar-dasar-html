@@ -89,6 +89,8 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Button
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/checkbox
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select
 
+Mengenal Input Text Area
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea
 
 
 

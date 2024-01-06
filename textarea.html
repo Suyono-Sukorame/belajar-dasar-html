@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Textarea</title>
+    <style>
+      label,
+      textarea {
+        font-size: 0.8rem;
+        letter-spacing: 1px;
+      }
+
+      textarea {
+        padding: 10px;
+        max-width: 100%;
+        line-height: 1.5;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+        box-shadow: 1px 1px 1px #999;
+      }
+
+      label {
+        display: block;
+        margin-bottom: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <label for="story">Tell us your story:</label>
+
+    <textarea id="story" name="story" rows="5" cols="33">
+        It was a dark and stormy night...
+    </textarea>
+    <hr />
+    <textarea name="textarea" rows="5" cols="30" placeholder="Comment text."></textarea>
+    <hr />
+    <textarea name="textarea" rows="5" cols="30" disabled>
+        I am a disabled textarea.
+        </textarea
+    >
+    <textarea name="textarea" rows="5" cols="30" readonly>
+        I am a read-only textarea.
+        </textarea
+    >
+  </body>
+</html>
