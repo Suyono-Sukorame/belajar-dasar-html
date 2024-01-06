@@ -61,6 +61,8 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/td
 https://id.wikipedia.org/wiki/Daftar_ibu_kota_negara_menurut_jumlah_penduduk
 
 Semantic Table thead tbody tfoot
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tbody
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tfoot
 
 
 
