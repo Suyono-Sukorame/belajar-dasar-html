@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Input</title>
+    <style>
+      label {
+        display: block;
+        font: 1rem "Fira Sans", sans-serif;
+      }
+
+      input,
+      label {
+        margin: 0.4rem 0;
+      }
+    </style>
+  </head>
+  <body>
+    <label for="name">Name (4 to 8 characters):</label>
+
+    <input type="text" id="name" name="name" required minlength="4" maxlength="8" size="10" />
+
+    <label for="camp-week">Choose a week in May or June:</label>
+
+    <input type="week" name="week" id="camp-week" min="2024-W24" max="2024-W26" required />
+
+    <label for="appt">Choose a time for your meeting:</label>
+
+    <input type="time" id="appt" name="appt" min="09:00" max="18:00" required />
+
+    <small>Office hours are 9am to 6pm</small>
+    <label for="start">Start month:</label>
+
+    <input type="month" id="start" name="start" min="2024-01" value="2024-05" />
+    <hr />
+
+    <p>Audio settings:</p>
+
+    <div>
+      <input type="range" id="volume" name="volume" min="0" max="11" />
+      <label for="volume">Volume</label>
+    </div>
+
+    <div>
+      <input type="range" id="cowbell" name="cowbell" min="0" max="100" value="90" step="10" />
+      <label for="cowbell">Cowbell</label>
+    </div>
+    <hr />
+    <label for="site-search">Search the site:</label>
+    <input type="search" id="site-search" name="q" />
+
+    <button>Search</button>
+  </body>
+</html>
