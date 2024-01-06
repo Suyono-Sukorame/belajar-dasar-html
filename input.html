@@ -14,6 +14,12 @@
       label {
         margin: 0.4rem 0;
       }
+      .preference {
+        display: flex;
+        justify-content: space-between;
+        width: 60%;
+        margin: 0.5rem;
+      }
     </style>
   </head>
   <body>
@@ -51,5 +57,15 @@
     <input type="search" id="site-search" name="q" />
 
     <button>Search</button>
+    <hr />
+    <div class="preference">
+      <label for="cheese">Do you like cheese?</label>
+      <input type="checkbox" name="cheese" id="cheese" />
+    </div>
+
+    <div class="preference">
+      <label for="peas">Do you like peas?</label>
+      <input type="checkbox" name="peas" id="peas" />
+    </div>
   </body>
 </html>

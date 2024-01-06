@@ -73,6 +73,9 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form
 Membuat Beberapa Inputan di dalam Form
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input
 
+Fungsi Label untuk Judul Inputan
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label
+
 
 
 
