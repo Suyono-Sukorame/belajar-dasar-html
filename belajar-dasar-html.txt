@@ -67,6 +67,11 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tfoot
 Menggabungkan Kolom dan Barus di Tabel HTML
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tr
 
+Mengenal Form untuk Isian Formulir
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form
+
+
+
 
 
 
