@@ -84,6 +84,12 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET
 
+Mengenal Radio Button Checkbox dan Select untuk Pilihan Ganda
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Button
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/checkbox
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select
+
+
 
 
 
