@@ -92,6 +92,9 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select
 Mengenal Input Text Area
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea
 
+Membuat Validasi Inputan di dalam Form
+https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation
+
 
 
 
