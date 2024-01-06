@@ -64,6 +64,11 @@ Semantic Table thead tbody tfoot
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tbody
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tfoot
 
+Menggabungkan Kolom dan Barus di Tabel HTML
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tr
+
+
+
 
 
 
